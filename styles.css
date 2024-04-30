@@ -28,6 +28,7 @@ z-index: 10000;
 }
 .h1-borde{
   color: var(--color-body);
+  }
 .borde {
   font-size: 20px;
   color: var(--color-body);
