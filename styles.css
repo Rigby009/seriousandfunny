@@ -23,6 +23,12 @@ z-index: 10000;
   text-align: center;
 
 }
+.borde {
+  font-size: 20px;
+}
+.bienvenida {
+  font-size: 17px;
+}
 
 #accept-cookies {
   background-color: #4CAF50;
